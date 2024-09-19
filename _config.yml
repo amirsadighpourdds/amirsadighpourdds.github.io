@@ -49,3 +49,7 @@ exclude:
   - LICENSE.md
   - LICENSE
   - README.md
+
+
+url: "https://username.github.io/repository_name" 
+remote_theme: zerostaticthemes/jekyll-serif-theme
