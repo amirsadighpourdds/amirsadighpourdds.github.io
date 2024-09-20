@@ -3,8 +3,8 @@ title: Amir Sadighpour DDS Hewlett Dentist
 layout: home
 description: Dr. Amir Sadighpour is a compassionate and caring family and general dentist in Hewlett, NY.
 intro_image: "images/illustrations/Amir-Sadighpour-DDS-Hewlett.jpg"
-intro_image_absolute: true
-intro_image_hide_on_mobile: true
+intro_image_absolute: false
+intro_image_hide_on_mobile: false
 show_call_box: true
 ---
 
